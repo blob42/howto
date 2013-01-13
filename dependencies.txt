@@ -1,0 +1,6 @@
+cssselect==0.7.1
+ipython==0.13.1
+lxml==3.1beta1
+py-stackexchange==1.1-4
+pyquery==1.2.4
+wsgiref==0.1.2
