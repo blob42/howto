@@ -31,7 +31,7 @@ CHANGELOG
 setup(
     name='howto',
     version=howto.__version__,
-    description='stackoverflow code search tool',
+    description='Ask question to StackOverflow from cli, get direct code answers',
     long_description=long_description,
     classifiers=[
         "Development Status :: 3 - Alpha",
