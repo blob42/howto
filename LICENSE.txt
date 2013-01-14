@@ -1,4 +1,4 @@
-Copyright (C) 2012 Chakib (sp4ke) Benziane (chakib.benz@gmail.com)
+Copyright (C) 2013 Chakib (sp4ke) Benziane (chakib.benz@gmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the "Software"),

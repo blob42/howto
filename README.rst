@@ -23,4 +23,4 @@ Usage
 
 ::
 
-    $> ./howto 'filter dicts' -t python
+    $> howto 'filter dicts' -t python
