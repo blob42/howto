@@ -24,3 +24,10 @@ Usage
 ::
 
     $> howto 'filter dicts' -t python
+
+TODO
+====
+
+
+* Interactive mode to get next answer
+* Add nixcraft search support
