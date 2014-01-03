@@ -6,6 +6,8 @@ Quick code answers from StackOverflow API.
 
 Just ask a question with an optional tag parameter to get quick code answers.
 
+Inspired by [howdoi project](https://github.com/gleitz/howdoi).
+
 Installation
 ============
 
