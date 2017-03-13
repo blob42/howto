@@ -1,4 +1,6 @@
-*no longer maintained*, I recommend [socli](https://github.com/gautamkrishnar/socli) instead.
+*no longer maintained*, I recommend socli_ instead.
+
+.. _socli: https://github.com/gautamkrishnar/socli
 
 =====================================
 HowTo - StackOverflow Code Search Tool
