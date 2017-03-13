@@ -1,3 +1,5 @@
+*no longer maintained*, I recommend [socli](https://github.com/gautamkrishnar/socli) instead.
+
 =====================================
 HowTo - StackOverflow Code Search Tool
 =====================================
