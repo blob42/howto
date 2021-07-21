@@ -68,10 +68,10 @@ def main(args):
         so = SOSearch(args.query, args.tags)
         result =  so.first_q().best_answer.code
         if result != None:
-            print result
+            print(result)
         else:
             print("Sorry I can't find your answer, try adding tags")
-    except NoResult, e:
+    except NoResult as e:
         print("Sorry I can't find your answer, try adding tags")
 
 
