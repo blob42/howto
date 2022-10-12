@@ -18,7 +18,7 @@ class SOSearch(Site):
         super(SOSearch, self).__init__(self.domain, **kw)
         self.qs = self.search(order=DESC, sort='votes', tagged=self.tags,
                     intitle=self.qs, filter='!-u2CTCMX')
-        if self.qs.total == 0:
+        if len(self.qs) == 0:
             raise NoResult
 
     def first_q(self):
@@ -68,10 +68,10 @@ def main(args):
         so = SOSearch(args.query, args.tags)
         result =  so.first_q().best_answer.code
         if result != None:
-            print result
+            print(result)
         else:
             print("Sorry I can't find your answer, try adding tags")
-    except NoResult, e:
+    except NoResult:
         print("Sorry I can't find your answer, try adding tags")
 
 
